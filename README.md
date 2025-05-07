@@ -8,6 +8,11 @@ Best create a venv (choose a name as you see fit):
 ```
 python -m venv my_venv
 ```
+and activate it (e.g. on bash):
+```
+source my_venv/bin/activate
+```
+
 Then install the requirements using pip:  
 ```
 pip install -r requirements.txt
