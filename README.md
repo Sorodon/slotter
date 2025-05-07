@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## Usage
 Call via CLI, provide options and a preference matrix:
-```python
+```
 python slotter.py -m 1 -M 2 preferences.csv
 ```
 
